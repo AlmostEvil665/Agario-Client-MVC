@@ -1,0 +1,2 @@
+# Assignment-Eight---Agario-Client---MVC
+The game can be described succinctly as:  A bunch of "food" (small circles)  occupy a rectangular space. A bunch of players (larger circles) move through the space.  Anytime a (somewhat) bigger circle significantly overlaps a smaller circle, the smaller circle is eaten and the size of the bigger cube goes up appropriately. Further, big circle can "split" in half, projecting part of themselves "forward"; this is usually done to ensnare smaller circles. Note: smaller circles move faster than bigger circles.
